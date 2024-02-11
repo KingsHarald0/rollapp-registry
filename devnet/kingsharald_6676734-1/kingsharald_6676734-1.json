@@ -18,7 +18,7 @@
   "website": "",
   "logo": "/logos/kingsharald_6676734-1.png",
   "ibc": {
-    "hubChannel": "channel-5480",
+    "hubChannel": "channel-8346",
     "channel": "channel-0",
     "timeout": 172800000
   },
@@ -27,8 +27,10 @@
     "rpc": "https://froopyland.dymension.xyz/20/kingsharald_6676734-1-a/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
   "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Ccd4jruZDRxcrL1G4gwD3vAZaMCgCVFLir8NqKugerHng3g"
   "rewards": true
 }
